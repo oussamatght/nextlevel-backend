@@ -44,7 +44,7 @@ export default [
     {
         name: 'strapi::cors',
         config: {
-            origin: ['https://nextlevel-academy.onrender.com'], // your frontend URL
+                       origin: ['https://nextlevel-m5ho.onrender.com', 'http://localhost:3000'],
             headers: ['Content-Type', 'Authorization'],
         },
     },
