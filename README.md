@@ -35,8 +35,4 @@ Built with **Strapi v5**, it provides a clean admin panel for managing products,
 | Auth | Clerk |
 | Hosting | Render |
 
----
 
-## ⚙️ Installation & Setup
-
-### 1️⃣ Clone the repo
