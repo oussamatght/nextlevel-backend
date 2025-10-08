@@ -1,7 +1,7 @@
 # ⚙️ NextLevel Backend — Strapi CMS for E-Commerce
 
 **Tech Stack:** Strapi • Node.js • SQLite • Stripe • Cloudinary • Clerk (Auth Integration)  
-**Frontend:** [NextLevel Frontend (Next.js)](https://github.com/oussamatght/nextlevel-frontend)
+**Frontend:** [https://github.com/oussamatght/nextlevel](https://github.com/oussamatght/nextlevel-frontend)
 
 ---
 
