@@ -44,7 +44,7 @@ export default [
     {
         name: 'strapi::cors',
         config: {
-                       origin: ['https://nextlevel-m5ho.onrender.com', 'http://localhost:3000'],
+                       origin: ['https://nextlevel-m5ho.onrender.com', 'http://localhost:3000','https://nextlevel-brown.vercel.app/'],
             headers: ['Content-Type', 'Authorization'],
         },
     },
