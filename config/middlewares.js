@@ -50,7 +50,7 @@ export default [
         'https://nextlevel-m5ho.onrender.com',
         'https://nextlevel-brown.vercel.app',
         'https://nextlevel-2.onrender.com',
-        'https://nextlevel-dx8b.vercel.app'
+        'https://nextlevel-dx8b.vercel.app',
       ],
       headers: ['Content-Type', 'Authorization', 'Origin', 'Accept'],
       methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
