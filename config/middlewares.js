@@ -48,6 +48,7 @@ export default [
   'https://nextlevel-m5ho.onrender.com',
   'http://localhost:3000',
   'https://nextlevel-brown.vercel.app',
+   'https://nextlevel-2.onrender.com',                        
 ],
 
         },
