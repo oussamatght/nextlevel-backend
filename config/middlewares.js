@@ -1,6 +1,7 @@
 export default [
   'strapi::logger',
   'strapi::errors',
+
   {
     name: 'strapi::security',
     config: {
@@ -41,6 +42,7 @@ export default [
     },
   },
 
+  // ✅ Move CORS up (before query/body/public)
   {
     name: 'strapi::cors',
     config: {
@@ -49,6 +51,7 @@ export default [
         'http://localhost:3000',
         'https://nextlevel-m5ho.onrender.com',
         'https://nextlevel-x2cm.onrender.com',
+        'https://nextlevel-backend-0dmg.onrender.com', // optional if calling from backend
       ],
       headers: ['Content-Type', 'Authorization', 'Origin', 'Accept'],
       methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
