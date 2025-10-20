@@ -48,9 +48,6 @@ export default [
       origin: [
         'http://localhost:3000',
         'https://nextlevel-m5ho.onrender.com',
-        'https://nextlevel-brown.vercel.app',
-        'https://nextlevel-2.onrender.com',
-        'https://nextlevel-dx8b.vercel.app',
         'https://nextlevel-x2cm.onrender.com',
       ],
       headers: ['Content-Type', 'Authorization', 'Origin', 'Accept'],
