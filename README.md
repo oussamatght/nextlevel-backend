@@ -33,6 +33,6 @@ Built with **Strapi v5**, it provides a clean admin panel for managing products,
 | Payments | Stripe |
 | Media Storage | Cloudinary |
 | Auth | Clerk |
-| Hosting | Render |
+
 
 
