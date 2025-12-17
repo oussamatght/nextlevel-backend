@@ -51,7 +51,9 @@ export default [
         'http://localhost:3000',
         'https://nextlevel-m5ho.onrender.com',
         'https://nextlevel-1-3xou.onrender.com',
-        'https://nextlevel-backend-0dmg.onrender.com', // optional if calling from backend
+        'https://nextlevel-backend-0dmg.onrender.com',
+        '/',
+        // optional if calling from backend
       ],
       headers: ['Content-Type', 'Authorization', 'Origin', 'Accept'],
       methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
