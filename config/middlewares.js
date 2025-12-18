@@ -52,6 +52,8 @@ export default [
         'https://nextlevel-m5ho.onrender.com',
         'https://nextlevel-1-3xou.onrender.com',
         'https://nextlevel-backend-0dmg.onrender.com',
+        'https://nextlevel-oqm6.vercel.app',
+        'https://nextlevel-backend-wz1k.onrender.com',
         '/',
         'https://nextlevel-backend-ktga.vercel.app',
         // optional if calling from backend
